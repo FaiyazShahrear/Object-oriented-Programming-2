@@ -1,0 +1,19 @@
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\bin\Debug\netcoreapp3.1\AccountManagementSystem.exe
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\bin\Debug\netcoreapp3.1\AccountManagementSystem.deps.json
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\bin\Debug\netcoreapp3.1\AccountManagementSystem.runtimeconfig.json
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\bin\Debug\netcoreapp3.1\AccountManagementSystem.runtimeconfig.dev.json
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\bin\Debug\netcoreapp3.1\AccountManagementSystem.dll
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\bin\Debug\netcoreapp3.1\AccountManagementSystem.pdb
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.csprojAssemblyReference.cache
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.AssemblyInfo.cs
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.dll
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.pdb
+C:\Users\Faiyaz\source\repos\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.genruntimeconfig.cache
+C:\Users\Faiyaz\Desktop\New folder\18-38502-2\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.csprojAssemblyReference.cache
+C:\Users\Faiyaz\Desktop\New folder\18-38502-2\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Faiyaz\Desktop\New folder\18-38502-2\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.AssemblyInfo.cs
+C:\Users\Faiyaz\Desktop\New folder\18-38502-2\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Faiyaz\Desktop\New folder\18-38502-2\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.dll
+C:\Users\Faiyaz\Desktop\New folder\18-38502-2\AccountManagementSystem\AccountManagementSystem\obj\Debug\netcoreapp3.1\AccountManagementSystem.pdb
