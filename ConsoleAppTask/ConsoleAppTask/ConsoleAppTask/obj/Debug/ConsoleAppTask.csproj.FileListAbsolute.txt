@@ -1,0 +1,6 @@
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppTask\ConsoleAppTask\bin\Debug\ConsoleAppTask.exe.config
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppTask\ConsoleAppTask\bin\Debug\ConsoleAppTask.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppTask\ConsoleAppTask\bin\Debug\ConsoleAppTask.pdb
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppTask\ConsoleAppTask\obj\Debug\ConsoleAppTask.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppTask\ConsoleAppTask\obj\Debug\ConsoleAppTask.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppTask\ConsoleAppTask\obj\Debug\ConsoleAppTask.pdb
