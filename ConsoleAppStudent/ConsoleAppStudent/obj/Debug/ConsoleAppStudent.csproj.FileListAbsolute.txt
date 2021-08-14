@@ -1,0 +1,6 @@
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStudent\ConsoleAppStudent\bin\Debug\ConsoleAppStudent.exe.config
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStudent\ConsoleAppStudent\bin\Debug\ConsoleAppStudent.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStudent\ConsoleAppStudent\bin\Debug\ConsoleAppStudent.pdb
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStudent\ConsoleAppStudent\obj\Debug\ConsoleAppStudent.csprojResolveAssemblyReference.cache
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStudent\ConsoleAppStudent\obj\Debug\ConsoleAppStudent.exe
+E:\Dropbox\AIUB\15. Summer 2019-20\OOP-2\Projects\ConsoleAppStudent\ConsoleAppStudent\obj\Debug\ConsoleAppStudent.pdb
